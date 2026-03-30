@@ -1,0 +1,14 @@
+# Android specific files
+/.idea/
+*.iml
+.gradle/
+build/
+/local.properties
+/.cxx/
+/.externalNativeBuild/
+
+# Kotlin specific files
+*.kt
+*.class
+*.jar
+*.keystore
